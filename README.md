@@ -1,2 +1,2 @@
-# RedBlackTree-Java
-Red Black Tree Implementation in Java
+# 简介
+这是一个java版本的红黑树.
